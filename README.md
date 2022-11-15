@@ -26,8 +26,4 @@
   <a href = "mailto:eduardo5slompo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardoslompo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://dev.to/eduardoslompo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
-
- 
-  ![Snake animation](https://github.com/eduardoslompo/eduardoslompo/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

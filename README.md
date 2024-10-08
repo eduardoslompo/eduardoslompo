@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a Front-end student.
+### Hi there 👋
 📍 São Paulo, Brazil
 <div align="center">
   <a href="https://github.com/eduardoslompo">
